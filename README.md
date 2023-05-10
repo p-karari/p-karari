@@ -1,10 +1,4 @@
-- 👋 Hi, I’m Kelvin Karari
-- 👀 I’m interested in software engineering.
-- 🌱 I’m currently learning new technologies.
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me - email: kararikelvin2002@gmail.com
+👋 Hello there , My name is Kelvin Karari a software engineering student from Kenya who is passionate about learning new technologies,creating solutions to elevate people and solve problems.I am skilled in frontend development and interface design.Some of the technologies i have experience working with are HTML , CSS and JAVASCRIPT.I enjoy learning languages and technologies. You can check out my instagram @https://instagram.com/not_gremlin?igshid=ZGUzMzM3NWJiOQ==
 
-<!---
-p-karari/p-karari is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=p-karari)](https://github.com/anuraghazra/github-readme-stats)
+
