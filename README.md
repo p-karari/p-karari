@@ -1,6 +1,4 @@
-<h3 align="center">A passionate frontend developer from India</h3>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=p-karari" alt="p-karari" /></a> </p>
+<h3 align="center">A prodigy fullstack developer from kenya with a knack for solving bugs</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
